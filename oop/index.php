@@ -42,6 +42,15 @@ echo "<br>";
 echo "============================================";
 echo "<br>";
 
-$student1 = new Student("Yousuf","Izki", ["Programming", "photographic"], 1002 , "Software Enginnering", "1.7");
 
-echo $student1->getInfo();
+echo (new Student(
+        "Yousuf",
+        "Izki",
+        ["Programming", "Photography"],
+        1002,
+        "Software Engineering",
+        "1.7"
+    ))
+    ->setCredentials(["username" => "admin", "password" => "admin"])
+    ->login(["username" => "admin", "password" => "123456"])
+    ->getInfo();

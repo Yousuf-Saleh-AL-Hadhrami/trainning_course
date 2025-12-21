@@ -1,0 +1,23 @@
+
+PHP OOP:
+
+- class & object 
+- constructor 
+- inheritance 
+- properties and methods 
+- access modifiers [ public , protected , private ]
+- instance taking object from the class 
+- final class and final method 
+- static properties and static methods 
+- arrays 
+- method overriding 
+- $this vs self vs static 
+
+- Encapsulation 
+- Polymorphism 
+- Abstraction 
+- Interface 
+- Traits 
+- Magic Methods 
+- object cloning 
+- serilization 
