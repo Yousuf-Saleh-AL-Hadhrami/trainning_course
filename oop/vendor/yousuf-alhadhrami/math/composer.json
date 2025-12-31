@@ -1,0 +1,19 @@
+{
+    "name": "yousuf-alhadhrami/math",
+    "description": "This just for learning how to make a php package and upload it to github and packgist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YousufAlhadhrami\\Math\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yousuf AL-Hadhrami",
+            "email": "izkiboy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

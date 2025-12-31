@@ -13,11 +13,18 @@ PHP OOP:
 - method overriding 
 - $this vs self vs static 
 
-- Encapsulation 
-- Polymorphism 
+- Encapsulation
+
+- Polymorphism
+ 
 - Abstraction 
+
 - Interface 
+
 - Traits 
+
+
+
 - Magic Methods 
 - object cloning 
 - serilization 

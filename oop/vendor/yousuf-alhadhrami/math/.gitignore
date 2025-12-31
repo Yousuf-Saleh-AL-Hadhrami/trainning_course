@@ -1,0 +1,11 @@
+# Ignore composer dependencies
+/vendor/
+
+# Ignore Composer lock file (اختياري إذا ما تحتاج تثبيته بدقة)
+composer.lock
+
+# Ignore IDE and system files
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
